@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[15]:
 
 
 #excercies-1-
@@ -12,7 +9,6 @@ b , a = 60 , 30
 print((a*b/b))
 
 
-# In[23]:
 
 
 #excercies-2-
@@ -30,9 +26,9 @@ print(a)
 
 
 
-# In[22]:
 
 
+#excercies-3-
 #TEK satırda for döngüsünü kullanarak işlem yaptırma ' List Comprehension '
 squares = []
 squares = [ i * i for i in range(1,11)]
