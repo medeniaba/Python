@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[83]:
-
 
 # List Comprehension in conditional
 
@@ -23,7 +18,7 @@ add = [ i for i in list if i % 2 == 1 ]
 add
 
 
-# In[84]:
+
 
 
 #Easy For 
@@ -50,7 +45,6 @@ print(m)
 
 
 
-# In[85]:
 
 
 # İç içe 2 forla bir listenin elemanı içerisinde dağınık listeler şeklinde bulunan bir -
@@ -63,7 +57,7 @@ for i in m :
 
 
 
-# In[115]:
+
 
 
 yeni = []
@@ -77,7 +71,7 @@ for i in m :
         
 
 
-# In[ ]:
+
 
 
 
