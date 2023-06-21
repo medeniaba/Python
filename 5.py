@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[45]:
 
 
 #Fonksiyonlar
@@ -56,7 +53,7 @@ sayilar = [*range(1,10)]
 [*map(kareal,sayilar)]    # ----> aynı görevde farklı yazılım şekli >> list(map(kareal,sayilar))
 
 
-# In[57]:
+
 
 
 def ciftsayi(x):
@@ -82,7 +79,7 @@ sayi = [*range(1,6)]
 [*filter(ciftsay, sayi)]
 
 
-# In[59]:
+
 
 
 #lambda kullanımı 
