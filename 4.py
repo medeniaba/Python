@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
 
 
 """" Klavyeden girilen ifadenin tek mi çift mi olduğunu kullanıcıya soran ve daha sonra
