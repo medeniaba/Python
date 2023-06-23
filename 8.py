@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[28]:
 
 
 # try - except ile kodumuzda hata varsa hatanın o kısmını ayıklayıp bize geri döndüren ve kodu çalıştıran bir yapı kurarız . 
@@ -45,13 +41,13 @@ def tam_sayi_cevirme2():
 tam_sayi_cevirme2()
 
 
-# In[45]:
+
 
 
 tam_sayi_cevirme2()
 
 
-# In[19]:
+
 
 
 # try - except ile kodumuzda hata varsa hatanın o kısmını ayıklayıp bize geri döndüren ve kodu çalıştıran bir yapı kurarız . 
@@ -73,7 +69,7 @@ def tam_sayi ():
     
 
 
-# In[21]:
+
 
 
 tam_sayi()
