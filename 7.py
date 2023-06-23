@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
 
 
 """
@@ -28,7 +24,7 @@ flatten(a)
 print(flatten_list)
 
 
-# In[16]:
+
 
 
 """"
@@ -54,7 +50,7 @@ output_liste = tersine_cevir(input_liste)
 print(output_liste)
 
 
-# In[17]:
+
 
 
 #
@@ -74,7 +70,7 @@ else:
         
 
 
-# In[50]:
+
 
 
 #Klavyeden girilen degere kadar sayıları yan yana birleştirip yazma kodu 
